@@ -1,7 +1,7 @@
 # 100-Days-Of-Code
 
 - [ ] ☁️ 1 > [My First Day](https://github.com/Rahul7171/100-Days-Of-Code/blob/main/Day1/Day1.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [My Second Day](https://github.com/Rahul7171/100-Days-Of-Code/blob/main/Day2.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
