@@ -1,129 +1,93 @@
-# 100-Days-Of-Code
+# Learn Web3 
 
-- [ ] ☁️ 1 > [My First Day](https://github.com/Rahul7171/100-Days-Of-Code/blob/main/Day1/Day1.md)
-- [ ] ☁️ 2 > [My Second Day](https://github.com/Rahul7171/100-Days-Of-Code/blob/main/Day2.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+Welcome to Learn Web3 in Stages! This repository is designed to help you learn the basics of Web3 and Ethereum development, from the ground up.
 
-## Walking down the road
+## **Prerequisites**
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+Before you get started, it's important to have a basic understanding of the following technologies:
 
-## Crossing the bridge
+* HTML: HTML (HyperText Markup Language) is the standard markup language for creating web pages. It consists of a series of elements, or tags, that specify the content and layout of a web page.
+    
+* CSS: CSS (Cascading Style Sheets) is a stylesheet language used for describing the look and formatting of a document written in HTML. With CSS, you can control the font, color, size, and spacing of elements on a web page.
+    
+* JavaScript: JavaScript is a programming language that is commonly used in web development. It allows you to add interactive features to your web pages, such as form validation and creating animations.
+    
+* Git: Git is a version control system that is used to track changes to files over time. It's particularly useful for collaborating on projects with other developers, as it allows you to easily merge changes made by different people.
+    
+* Github: Github is a web-based platform that allows you to store and manage your Git repositories. It's a great place to share your code with other developers and collaborate on projects.
+    
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+If you're new to these technologies, don't worry! There are plenty of resources available online to help you get up to speed. Some good places to start include:
 
-## Into the bushy, thorny forest
+* [**HTML and CSS Tutorials**](https://www.w3schools.com/html/html_css.asp)
+    
+* [**JavaScript Tutorials**](https://www.w3schools.com/js/)
+    
+* [**Git and Github Basics**](https://guides.github.com/introduction/git-handbook/)
+    
 
-- [ ] ☁️ 31 > [](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [](Journey/033/Readme.md)
-- [ ] ☁️ 34 > [](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [](Journey/035/Readme.md)
-- [ ] ☁️ 36 > [](Journey/036/Readme.md)
-- [ ] ☁️ 37 > [](Journey/037/Readme.md)
-- [ ] ☁️ 38 > [](Journey/038/Readme.md)
-- [ ] ☁️ 39 > [](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+## **Stage 1: Introduction to Web3**
 
-## Trekking the dunes
+In this stage, you'll learn the following:
 
-- [ ] ☁️ 41 > [](Journey/041/Readme.md)
-- [ ] ☁️ 42 > [](Journey/042/Readme.md)
-- [ ] ☁️ 43 > [](Journey/043/Readme.md)
-- [ ] ☁️ 44 > [](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [](Journey/045/Readme.md)
-- [ ] ☁️ 46 > [](Journey/046/Readme.md)
-- [ ] ☁️ 47 > [](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [](Journey/049/Readme.md)
-- [ ] ☁️ 50 > [](Journey/050/Readme.md)
+* What Web3 is: Web3 is a collection of libraries and protocols that allow you to interact with the Ethereum blockchain from within your web applications. It allows you to read and write data to the blockchain, and to execute smart contracts.
+    
+* How Web3 fits into the Ethereum ecosystem: Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. Web3 is the interface between your web application and the Ethereum blockchain, allowing you to build decentralized applications (DApps) on top of the Ethereum platform.
+    
+* Setting up your development environment: To get started with Web3 development, you'll need to install some tools on your computer. These include a text editor (such as Visual Studio Code), Node.js (which allows you to run JavaScript on your computer), and the Web3.js library. There are plenty of tutorials available online that can help you set up your development environment.
+    
+* Running your first Web3 script: Once you have your development environment set up, you'll be ready to write your first Web3 script. This will involve connecting to the Ethereum blockchain, and reading or writing data to it. There are plenty of examples available online that can help you get started with this.
+    
 
-## Winding through the canyons
+Here are some resources to help you get started with Stage 1:
 
-- [ ] ☁️ 51 > [](Journey/051/Readme.md)
-- [ ] ☁️ 52 > [](Journey/052/Readme.md)
-- [ ] ☁️ 53 > [](Journey/053/Readme.md)
-- [ ] ☁️ 54 > [](Journey/054/Readme.md)
-- [ ] ☁️ 55 > [](Journey/055/Readme.md)
-- [ ] ☁️ 56 > [](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
-- [ ] ☁️ 58 > [](Journey/058/Readme.md)
-- [ ] ☁️ 59 > [](Journey/059/Readme.md)
-- [ ] ☁️ 60 > [](Journey/060/Readme.md)
+* [**Web3.js Documentation**](https://web3js.readthedocs.io/)
+    
+* [**Ethereum Developer Docs**](https://docs.ethhub.io/)
+    
 
-## Stumbling through the caves
+## **Stage 2: Interacting with Smart Contracts**
 
-- [ ] ☁️ 61 > [](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
-- [ ] ☁️ 63 > [](Journey/063/Readme.md)
-- [ ] ☁️ 64 > [](Journey/064/Readme.md)
-- [ ] ☁️ 65 > [](Journey/065/Readme.md)
-- [ ] ☁️ 66 > [](Journey/066/Readme.md)
-- [ ] ☁️ 67 > [](Journey/067/Readme.md)
-- [ ] ☁️ 68 > [](Journey/068/Readme.md)
-- [ ] ☁️ 69 > [](Journey/069/Readme.md)
-- [ ] ☁️ 70 > [](Journey/070/Readme.md)
+In this stage, you'll learn the following:
 
-## Resting at the Lagoon
+* Writing and deploying your own smart contracts: Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist on the blockchain network. To write and deploy your own smart contracts, you'll need to learn a programming language such as Solidity. There are plenty of resources available online to help you get started with this.
+    
+* Interacting with smart contracts using Web3: Once you've written and deployed your smart contracts, you'll want to be able to interact with them from your web application. This is where Web3 comes in. Using the Web3.js library, you can read and write data to your smart contracts, and execute their functions.
+    
 
-- [ ] ☁️ 71 > [](Journey/071/Readme.md)
-- [ ] ☁️ 72 > [](Journey/072/Readme.md)
-- [ ] ☁️ 73 > [](Journey/073/Readme.md)
-- [ ] ☁️ 74 > [](Journey/074/Readme.md)
-- [ ] ☁️ 75 > [](Journey/075/Readme.md)
-- [ ] ☁️ 76 > [](Journey/076/Readme.md)
-- [ ] ☁️ 77 > [](Journey/077/Readme.md)
-- [ ] ☁️ 78 > [](Journey/078/Readme.md)
-- [ ] ☁️ 79 > [](Journey/079/Readme.md)
-- [ ] ☁️ 80 > [](Journey/080/Readme.md)
+Here are some resources to help you get started with Stage 2:
 
-## Up into the mountains
+* [**Ethereum Smart Contracts 101**](https://blockgeeks.com/guides/ethereum-smart-contracts-101/)
+    
+* [**Web3.js Documentation: Contract**](https://web3js.readthedocs.io/en/v1.2.7/web3-eth-contract.html)
+    
 
-- [ ] ☁️ 81 > [](Journey/081/Readme.md)
-- [ ] ☁️ 82 > [](Journey/082/Readme.md)
-- [ ] ☁️ 83 > [](Journey/083/Readme.md)
-- [ ] ☁️ 84 > [](Journey/084/Readme.md)
-- [ ] ☁️ 85 > [](Journey/085/Readme.md)
-- [ ] ☁️ 86 > [](Journey/086/Readme.md)
-- [ ] ☁️ 87 > [](Journey/087/Readme.md)
-- [ ] ☁️ 88 > [](Journey/088/Readme.md)
-- [ ] ☁️ 89 > [](Journey/089/Readme.md)
-- [ ] ☁️ 90 > [](Journey/090/Readme.md)
+## **Stage 3: Building Decentralized Applications (DApps)**
 
-## Into the sky to touch the cloud!
+In this stage, you'll learn the following:
 
-- [ ] ☁️ 91 > [](Journey/091/Readme.md)
-- [ ] ☁️ 92 > [](Journey/092/Readme.md)
-- [ ] ☁️ 93 > [](Journey/093/Readme.md)
-- [ ] ☁️ 94 > [](Journey/094/Readme.md)
-- [ ] ☁️ 95 > [](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
-- [ ] ☁️ 97 > [](Journey/097/Readme.md)
-- [ ] ☁️ 98 > [](Journey/098/Readme.md)
-- [ ] ☁️ 99 > [](Journey/099/Readme.md)
-- [ ] ☁️ 100 > [](Journey/100/Readme.md)
+* Building DApps on top of the Ethereum platform: A decentralized application (DApp) is an application that runs on a decentralized platform, such as Ethereum. To build a DApp, you'll need to use Web3 to read and write data to the blockchain, and to interact with smart contracts.
+    
+* Building user interfaces for your DApps: To make your DApp user-friendly, you'll need to build a user interface (UI) for it. This can be done using HTML, CSS, and JavaScript. Your UI will allow users to interact with your DApp and perform various actions, such as reading and writing data to the blockchain.
+    
+
+Here are some resources to help you get started with Stage 3:
+
+* [**Ethereum DApp Developer Resources**](https://ethereum.org/greeter)
+    
+* [**Building Ethereum DApps: A Guide**](https://www.toptal.com/ethereum/building-ethereum-dapps)
+    
+
+## **Tips and Best Practices**
+
+As you progress through these stages of learning Web3 and Ethereum development, here are some tips and best practices to keep in mind:
+
+* Stay up to date with the latest developments in the Ethereum ecosystem. The field of blockchain and decentralized technologies is constantly evolving, and it's important to keep up with the latest trends and best practices.
+    
+* Test your code thoroughly. When working with the Ethereum blockchain, it's important to test your code carefully to ensure that it's working as intended. This is especially important when working with smart contracts, as mistakes in your code can have significant consequences.
+    
+* Use version control. As you develop your DApps, it's important to use version control to track changes to your code over time. This will allow you to easily revert back to earlier versions if something goes wrong, and will make it easier to collaborate with other developers.
+    
+* Take security seriously. When working with the Ethereum blockchain, security is of the utmost importance. Make sure to follow best practices for securing your code and your development environment, and consider using tools like Truffle to help with this.
+    
+* Learn from others. There are many talented Ethereum developers out there who are happy to share their knowledge and experience. Join online communities, attend meetups, and read blog posts and articles written by experts in the field. This will help you stay up to date with the latest developments and best practices, and will also help you make connections with other developers.
